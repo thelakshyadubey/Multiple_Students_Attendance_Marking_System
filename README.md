@@ -120,5 +120,5 @@ To test the accuracy of the face recognition model:
 -   [ ] Store attendance data in a more robust database system like SQLite or PostgreSQL.
 
 ## Preview
-<img width="640" height="480" alt="SuhaniKhandelwal_70022200380" src="https://github.com/user-attachments/assets/85c0a913-a5b5-4c66-b5f8-a3fb4b9348f7" />
 <img width="640" height="480" alt="LakshyaDubey_70022200396" src="https://github.com/user-attachments/assets/e9ba270c-2955-4621-804d-2ebe7a215c52" />
+<img width="640" height="480" alt="SuhaniKhandelwal_70022200380" src="https://github.com/user-attachments/assets/85c0a913-a5b5-4c66-b5f8-a3fb4b9348f7" />
