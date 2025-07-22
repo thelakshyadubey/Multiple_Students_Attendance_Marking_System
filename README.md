@@ -122,3 +122,7 @@ To test the accuracy of the face recognition model:
 ## Preview
 <img width="640" height="480" alt="LakshyaDubey_70022200396" src="https://github.com/user-attachments/assets/e9ba270c-2955-4621-804d-2ebe7a215c52" />
 <img width="640" height="480" alt="SuhaniKhandelwal_70022200380" src="https://github.com/user-attachments/assets/85c0a913-a5b5-4c66-b5f8-a3fb4b9348f7" />
+<img width="1919" height="1002" alt="image" src="https://github.com/user-attachments/assets/b80f9a0a-c66a-4c20-a46c-0169c28a359d" />
+<img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/73f4e4c1-9665-4ead-9647-25a32c8b8a39" />
+
+
